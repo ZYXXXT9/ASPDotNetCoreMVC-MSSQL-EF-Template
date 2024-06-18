@@ -1,0 +1,8 @@
+# Visual Studio / VS Code
+.vs/
+.vscode/
+*.sln.docstates
+
+# Build output
+bin/
+obj/
